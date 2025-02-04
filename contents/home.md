@@ -1,16 +1,23 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Yixin0313](https://img.shields.io/badge/Yixin0313-github-blue?logo=github)](https://github.com/Yixin0313)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I'm currently pursuing a Master's degree in Computer Science at the Department of Information Technology, Uppsala University, Sweden. 
 
-#### Email
-sli[at]cumt.edu.cn
+#### Email  
+[yixin.huang.0067@student.uu.se](mailto:yixin.huang.0067@student.uu.se)  
+[HYX20018888@outlook.com](mailto:HYX20018888@outlook.com)
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+**Uppsala University**, Master of Computer Science (Aug 2023 – Jun 2025)  
+• GPA: 4.0/5.0  
+
+**Xidian University**, Exchange student
+• As a sophomore, represented my college as an outstanding student for a one-year exchange program.
+
+**Shihezi University**, Honours Bachelor of Data Science and Big Data Technology (Sept 2019 – Jun 2023)  
+• GPA: 3.86/4.0 (top 1%)  
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Artificial Intelligence, LLMs(Large Language Models), Blockchain.
 
