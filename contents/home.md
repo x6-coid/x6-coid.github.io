@@ -4,15 +4,15 @@
 
 I'm currently pursuing a Master's degree in Computer Science at the Department of Information Technology, Uppsala University, Sweden. 
 
-#### Email  
-yixin.huang.0067@student.uu.se
-HYX20018888@outlook.com
+#### Email
+<span>yixin.huang.0067@student.uu.se</span>  
+<span>HYX20018888@outlook.com</span>
 
 #### Education
 **Uppsala University**, Master of Computer Science (Aug 2023 – Jun 2025)  
 • GPA: 4.0/5.0  
 
-**Xidian University**, Exchange student  
+**Xidian University**, Exchange student <br>
 • As a sophomore, represented my college as an outstanding student for a one-year exchange program.  
 
 **Shihezi University**, Honours Bachelor of Data Science and Big Data Technology (Sept 2019 – Jun 2023)  
