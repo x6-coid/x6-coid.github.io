@@ -5,8 +5,8 @@
 I'm currently pursuing a Master's degree in Computer Science at the Department of Information Technology, Uppsala University, Sweden. 
 
 #### Email
-yixin.huang.0067\@student.uu.se  
-HYX20018888\@outlook.com
+<code>yixin.huang.0067@student.uu.se</code>  
+<code>HYX20018888@outlook.com</code>
 
 #### Education
 **Uppsala University**, Master of Computer Science (Aug 2023 – Jun 2025)  
