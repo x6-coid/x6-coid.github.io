@@ -5,8 +5,7 @@
 # 通用个人主页模板：适用于学术和求职场景 | A general-purpose template: suitable for both academic and professional use.
 
 ## 预览 | Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/Yixin0313/Yixin0313.github.io/main/screenshot_full.png)](https://yixin0313.github.io/)
-
+👉 [Yixin's Homepage](https://yixin0313.github.io/)
 
 ## 介绍 | Introduction
 
@@ -17,9 +16,6 @@
 This is a **general-purpose personal website template**, modified from [Sen Li's academic template](https://github.com/senli1073/senli1073.github.io).  
 
 I have added a **work experience section**, making it more practical for programmers and job seekers.
-
-👉 [Yixin's Demo](https://yixin0313.github.io/)
-
 
 ## 快速开始 | Getting Start
 ### 1. Fork 该仓库 | Fork this repository
