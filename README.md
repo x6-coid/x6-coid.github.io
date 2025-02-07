@@ -5,7 +5,7 @@
 # 通用个人主页模板：适用于学术和求职场景 | A general-purpose template: suitable for both academic and professional use.
 
 ## 预览 | Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/Yixin0313/Yixin0313.github.io/main/static/assets/img/screenshot_full.png)](https://yixin0313.github.io/)
+[![Screenshot of the Website](https://raw.githubusercontent.com/Yixin0313/Yixin0313.github.io/main/screenshot_full.png)](https://yixin0313.github.io/)
 
 
 ## 介绍 | Introduction
