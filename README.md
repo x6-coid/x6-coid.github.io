@@ -2,11 +2,10 @@
 ![Github Stars](https://img.shields.io/github/stars/Yixin0313/Yixin0313.github.io?style=flat)
 ![License](https://img.shields.io/github/license/Yixin0313/Yixin0313.github.io)
 
-# 通用个人主页模板：适用于学术和求职场景
-# A general-purpose template: suitable for both academic and professional use.
+# 通用个人主页模板：适用于学术和求职场景 | A general-purpose template: suitable for both academic and professional use.
 
-## Preview
-[![Screenshot of the Website](https://raw.githubusercontent.com/Yixin0313/Yixin0313.github.io/main/static/assets/img/screenshot_full.png)](https://yixin0313.github.io/)
+## 预览 | Preview
+[![Screenshot of the Website](https://github.com/Yixin0313/Yixin0313.github.io/main/static/assets/img/screenshot_full.png)](https://yixin0313.github.io/)
 
 
 ## Introduction
@@ -15,7 +14,7 @@ This is a **general-purpose personal website template**, modified from [Sen Li's
 
 I have added a **work experience section**, making it more practical for programmers and job seekers.
 
-👉 [Live Demo](https://yixin0313.github.io/)
+👉 [Yixin's Demo](https://yixin0313.github.io/)
 
 
 ## Getting Start
