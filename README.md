@@ -12,7 +12,7 @@
 
 这是一个**通用的个人主页模板**，基于 [Sen Li 的学术主页模板](https://github.com/senli1073/senli1073.github.io) 进行修改。  
 
-我新增了**工作经历板块**，使其更加适用于程序员和求职者。并且使用了中英文对照版本
+我新增了**工作经历板块**，使其更加适用于程序员和求职者。并且使用了中英文对照版本。
 
 This is a **general-purpose personal website template**, modified from [Sen Li's academic template](https://github.com/senli1073/senli1073.github.io).  
 
@@ -24,6 +24,7 @@ I have added a **work experience section**, making it more practical for program
 ## 快速开始 | Getting Start
 ### 1. Fork 该仓库 | Fork this repository
 仓库名称应命名为 `<用户名>.github.io`，这样你的个人网站地址将是 `https://<用户名>.github.io/`。
+
 The repository name should be `<username>.github.io`, which will also be your website's URL.
 
 
@@ -60,10 +61,12 @@ git push
 ### 3. 访问你的网站 | Enjoy
 
 打开浏览器，访问 https://<用户名>.github.io，即可查看你的个人主页
+
 Fire up a browser and go to `https://<username>.github.io`
 
 
 
 ## License
 本项目基于 MIT 许可协议，你可以自由使用和修改此模板。 Yixin Huang 2025年2月7号
+
 Copyright Yixin Huang, 2025. Licensed under an MIT license. You can copy and mess with this template.
