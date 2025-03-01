@@ -8,5 +8,3 @@ collections:
   posts:
     output: true
     permalink: /blog/:title/
-github:
-  is_project_page: false
