@@ -104,6 +104,9 @@
                     <li class="nav-item">
                         <a class="nav-link me-lg-3" href="#publications">PUBLICATIONS</a>
                     </li>
+                    <li class="nav-item">
+                        <a class="nav-link me-lg-3" href="blog.html">BLOG</a>
+                    </li>
                 </ul>
             </div>
         </div>
@@ -173,6 +176,24 @@
         </div>
     </section>
     <!-- Publications  -->
+
+    <!-- Blog -->
+    <section class="bg-gradient-primary-to-secondary-gray mt5 md5" id="blog">
+        <div class="container px-5">
+            <header>
+                <h2 id="blog-subtitle"><i class="bi bi-pencil-square"></i>&nbsp;BLOG</h2>
+            </header>
+            <div class="main-body" id="blog-md">
+                <ul>
+                    {% for post in site.posts %}
+                    <li>
+                        <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y-%m-%d" }}
+                    </li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+    </section>
 
     <!-- Footer-->
     <footer class="bg-bottom text-center py-5">
