@@ -1,23 +1,8 @@
-
-
-[![Yixin0313](https://img.shields.io/badge/Yixin0313-github-blue?logo=github)](https://github.com/Yixin0313)
-
-M.Sc. in Computer Science, Uppsala University, Sweden. 
-
 #### Email
-<code>yixin.huang.0067@student.uu.se</code>  
-<code>HYX20018888@outlook.com</code>
+<code>u202412883@hust.edu.cn</code>  
+<code>2271027800@qq.com</code>
 
-#### Education
-**Uppsala University**, Master of Computer Science (Aug 2023 – Jun 2025)  
-• GPA: 4.0/5.0  
+#### Education  
 
-**Xidian University**, Exchange student <br>
-• As a sophomore, represented my college as an outstanding student for a one-year exchange program.  
-
-**Shihezi University**, Honours Bachelor of Data Science and Big Data Technology (Sept 2019 – Jun 2023)  
-• GPA: 86/100 (top 1%)  
-
-#### Research Interests
-Deep Learning, Artificial Intelligence, LLMs(Large Language Models), Blockchain.
-
+**Huazhong University of Science and Technology**, Honours Bachelor of Naval Architecture and Ocean Engineering (Sept 2024 – Jun 2028)  
+• GPA: 74/100   
